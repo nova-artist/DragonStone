@@ -1,0 +1,216 @@
+#directions{
+    text-align: center;
+    color: seagreen;
+}
+
+#center{
+    text-align: center;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: 'Astloch', cursive;
+    color: seagreen;
+    background-color: black;
+    
+}
+
+nav{
+    width: 100%;
+    margin: 0;
+    background-color: black;
+    color: white;
+    overflow: auto;
+}
+
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    width: 100%;
+    float: left;
+    top: 0;
+    position: fixed;
+}
+
+nav li{ 
+    float: left;
+}
+
+nav li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: black;
+}
+
+nav li a:hover{
+    background-color: white;
+    color: black;
+}
+
+.active{
+    background-color: maroon;
+}
+
+.nest{
+    width: 100%;
+}
+
+.egg{
+    width: 100%;
+    float: left;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: nowrap;
+    align-content: space-around;
+}
+
+.egg h1{
+    font-size: 100px;
+    font-weight: bold;
+    font-family: 'Cinzel Decorative', cursive;
+    padding: 0;
+    margin: 0;
+    color: seagreen;
+}
+
+.egg h3{
+   margin-top: -2em;
+   font-size: 30px;
+}
+
+.egg img{
+    width: 45%;
+    height: 85%;
+}
+
+.gull1{
+    width: 8%;
+    margin-left: 1%;
+    margin-right: 1%;  
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    
+    text-align: center; 
+}
+
+.gull2{
+    width: 18%;
+    margin-left: 1%;
+    margin-right: 1%;  
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    
+    text-align: center;
+}
+
+.gull3{
+    width: 28%;
+    margin-left: 1%;
+    margin-right: 1%;  
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    
+    text-align: center;
+}
+
+.gull4{
+    width: 38%;
+    margin-left: 1%;
+    margin-right: 1%;  
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    
+    text-align: center;
+}
+
+.gull5{
+    width: 48%;
+    margin-left: 1%;
+    margin-right: 1%;  
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: 30px;
+    
+    text-align: center;
+}
+
+.gull6{
+    width: 58%;
+    margin-left: 1%;
+    margin-right: 1%;  
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    
+    text-align: center;
+}
+
+.gull7{
+    width: 68%;
+    margin-left: 1%;
+    margin-right: 1%;  
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    
+    text-align: center;
+}
+
+.gull8{
+    width: 78%;
+    margin-left: 1%;
+    margin-right: 1%;  
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    
+    text-align: center;
+}
+
+.gull9{
+    width: 88%;
+    margin-left: 1%;
+    margin-right: 1%;  
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    
+    text-align: center;
+}
+
+.gull10{
+    width: 98%;
+    margin-left: 1%;
+    margin-right: 1%;  
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    
+    text-align: center;
+}
+
+
+
